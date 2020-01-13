@@ -21,7 +21,7 @@ class ConvertToUppercase extends FileWriter {
 	public void read() throws IOException {
 		final FileReader r = new FileReader("file.txt");
 		
-		while (myReader.hasNextLine()) {
+		while (fileReader.hasNextLine()) {
 		String data = myReader.nextLine();
 		System.out.println(data);
 		}
