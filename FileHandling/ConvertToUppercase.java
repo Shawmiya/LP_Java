@@ -23,9 +23,9 @@ class ConvertToUppercase extends FileWriter {
 		int st;
 		while((st=r.read())!=-1) {
 			if(97<=st && st<=122) 
-				System.out.print((char)(i-32));
+				System.out.print((char)(st-32));
 			else
-				System.out.println((char)i);
+				System.out.println((char)st);
 		}
 		r.close();
 		
