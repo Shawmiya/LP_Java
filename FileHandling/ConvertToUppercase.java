@@ -20,9 +20,9 @@ class ConvertToUppercase extends FileWriter {
 	
 	public void read() throws IOException {
 		final FileReader r = new FileReader("file.txt");
-		int i;
-		while((i=r.read())!=-1) {
-			if(97<=i && i<=122) 
+		int st;
+		while((st=r.read())!=-1) {
+			if(97<=st && st<=122) 
 				System.out.print((char)(i-32));
 			else
 				System.out.println((char)i);
