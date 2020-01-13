@@ -3,9 +3,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 class ConvertToUppercase extends FileWriter {
-	public ConvertToUppercase(String file) throws IOException{
-		super(file);
-	}
 	
 	
 	public void write(String str) throws IOException{
