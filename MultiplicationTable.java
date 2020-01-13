@@ -1,17 +1,16 @@
 public class MultiplicationTable {
      
-    public static void printMultiplicationTable(int tableSize) {
-      
+    public static void printMultiplicationTable(int n) {
         System.out.format("      ");
-        for(int i = 1; i<=tableSize;i++ ) {
+        for(int i = 1; i<=n;i++ ) {
             System.out.format("%4d",i);
         }
         System.out.println();
         System.out.println("------------------------------------------");
          
-        for(int i = 1 ;i<=tableSize;i++) {
+        for(int i = 1 ;i<=n;i++) {
             System.out.format("%4d |",i);
-            for(int j=1;j<=tableSize;j++) {
+            for(int j=1;j<=n;j++) {
                 System.out.format("%4d",i*j);
             }
             System.out.println();
@@ -19,8 +18,8 @@ public class MultiplicationTable {
     }
 	
 	public static void main(String[] args) {
-        int tableSize = 9;
-        printMultiplicationTable(tableSize);
+        int n = 9;
+        printMultiplicationTable(n);
     }
      
      
