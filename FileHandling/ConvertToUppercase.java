@@ -35,16 +35,14 @@ class ConvertToUppercase extends FileWriter {
 	}
 	
 	public static void main(String[] args) {
-		try {
+	
 			ConvertToUppercase fileWritter = new ConvertToUppercase("file.txt");
 			fileWritter.write("apple");
 			fileWritter.close();
 			fileWritter.read();
 		}
 		
-		catch(IOException e) {
-			e.printStackTrace();
-		}
+		
 	}
 	
 
