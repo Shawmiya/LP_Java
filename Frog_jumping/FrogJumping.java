@@ -5,7 +5,6 @@ class FrogJumping{
 		 if (distance <= 5){
 			time = 0;
 		 } 
-		 
 		 while(distance > 5){
 			if(distance > 0){
 				distance = distance - 5;
@@ -47,8 +46,6 @@ class FrogJumping{
 			System.out.println("Total distance is " + distance + "m");
 		}
 		
-
-	
 	public static void main(String [] args){
 		Scanner s = new Scanner(System.in);
 		System.out.print("Do you want to calculate the distance(d) or time(t)? ");
