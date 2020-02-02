@@ -9,15 +9,15 @@ import com.krishantha.training.salesmanager.service.EmployeeServiceImpl;
 
 public class Application {
 	public static void main(String[] args) {
-ApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
-		
+		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
+
 		EmployeeService employeeService = applicationContext.getBean("employeeService", EmployeeService.class);
-		
+
 		List<Employee> employees = employeeService.getAllEmployees();
-		
-		for(Employee employee : employees) {
+
+		for (Employee employee : employees) {
 			System.out.println(employee.getEmployeeName() + " at " + employee.getEmployeeLocation());
 		}
-		
+
 	}
 }

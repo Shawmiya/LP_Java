@@ -6,8 +6,11 @@ import java.util.List;
 import com.krishantha.training.salesmanager.model.Employee;
 
 public class HibernateEmployeeRepositoryImpl implements EmployeeRepository {
-	/* (non-Javadoc)
-	 * @see com.krishantha.training.salesmanager.repository.EmployeeRepository#getAllEmployee()
+	/*
+	 * (non-Javadoc)
+	 * 
+	 * @see com.krishantha.training.salesmanager.repository.EmployeeRepository#
+	 * getAllEmployee()
 	 */
 	@Override
 	public List<Employee> getAllEmployees() {
@@ -21,4 +24,3 @@ public class HibernateEmployeeRepositoryImpl implements EmployeeRepository {
 	}
 
 }
- 

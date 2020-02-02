@@ -5,11 +5,11 @@
    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 
 	<bean name="employeeRepository"
-		class="com.krishantha.training.salesmanager.repository.HibernateEmployeeRepos
-itoryImpl" />
+		class="com.krishantha.training.salesmanager.repository.HibernateEmployeeRepositoryImpl" />
 
-<bean name="employeeService"
-		class="com.krishantha.training.salesmanager.service.EmployeeServiceImpl" >
-<property name = "employeeRepository" value = "employeeRepository"></property>
-</bean>
+	<bean name="employeeService"
+		class="com.krishantha.training.salesmanager.service.EmployeeServiceImpl"
+		autowire="constructor">
+		<!-- <property name="employeeRepository" value="employeeRepository"></property> -->
+	</bean>
 </beans>
