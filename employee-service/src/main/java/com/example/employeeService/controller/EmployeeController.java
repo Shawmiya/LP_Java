@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.employeeService.Model.Employee;
 
 @RestController
-@RequestMapping("/Service")
+@RequestMapping("/services")
 public class EmployeeController {
 	@RequestMapping("/employees")
 	public 	List<Employee> getAllEmployees() {

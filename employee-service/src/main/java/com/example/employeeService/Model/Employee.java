@@ -34,7 +34,6 @@ public class Employee {
 
 	public static List<Employee> getAllEmployees() {
 		List<Employee> employees = new ArrayList<Employee>();
-
 		Employee employee = new Employee();
 		employee.setName("John");
 		employee.setMarks(25);
@@ -42,10 +41,7 @@ public class Employee {
 		employee.setName("Ann");
 		employee.setMarks(20);
 		employees.add(employee);
-		employee.setName("Kenn");
-		employee.setMarks(10);
-		employees.add(employee);
-
+		
 		return employees;
 	}
 }
