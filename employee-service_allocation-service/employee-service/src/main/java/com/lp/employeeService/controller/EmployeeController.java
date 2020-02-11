@@ -34,20 +34,20 @@ public class EmployeeController {
     @RequestMapping("test")
     public Employee test() {
         Employee employee = new Employee();
-        employee.setId(10);
-        employee.setName("ishan");
-        employee.setMarks("99");
+        employee.setId(1);
+        employee.setName("john");
+        employee.setMarks("80");
 
         
         Address adress = new Address();
-        adress.setCity("Ragama");
+        adress.setCity("Galle");
         employee.setAddress(adress);
 
         Telephone telephone = new Telephone();
-        telephone.setNo(11989);
+        telephone.setNo(23462144);
 
         Telephone telephone1 = new Telephone();
-        telephone1.setNo(115258989);
+        telephone1.setNo(66779433);
 
         List<Telephone> list = new ArrayList<>();
         list.add(telephone);
@@ -83,8 +83,8 @@ public class EmployeeController {
     public Employee getEmployee(@PathVariable int id) {
         if (id == 0) {
             Employee employee = new Employee();
-            employee.setId(10);
-            employee.setName("ishan");
+            employee.setId(1);
+            employee.setName("John");
             return employee;
         } else
             return employeeService.findById(id);
