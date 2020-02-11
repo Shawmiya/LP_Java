@@ -7,6 +7,7 @@ import com.lp.employeeService.Model.Telephone;
 import com.lp.employeeService.Repository.EmployeeRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.stereotype.Service;
 
