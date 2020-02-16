@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad0e7dc0-3f7c-46b9-85df-41b8b4069132" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XlaxsYzIyUBQNUGBfqB5wJ7wzV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.DiscoveryService" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean install" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DiscoveryServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.DiscoveryService.DiscoveryServiceApplication" />
+      <module name="DiscoveryService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.DiscoveryService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DiscoveryServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad0e7dc0-3f7c-46b9-85df-41b8b4069132" name="Default Changelist" comment="" />
+      <created>1581623384847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581623384847</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="59" width="800" height="677" key="#Project_Structure" timestamp="1581627958347">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="59" width="800" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1581627958347" />
+    <state x="174" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581623633316">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1581623633316" />
+    <state x="399" y="125" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581623430885">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="399" y="125" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1299.741@67.27.1299.741" timestamp="1581623430885" />
+    <state x="471" y="284" width="484" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581678192950">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="471" y="284" width="484" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/70.27.1296.741@70.27.1296.741" timestamp="1581678192950" />
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581623568337">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1581623568337" />
+    <state width="1253" height="246" key="GridCell.Tab.0.bottom" timestamp="1581872969042">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="246" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581872969042" />
+    <state width="1230" height="204" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1581678752874" />
+    <state width="1253" height="246" key="GridCell.Tab.0.center" timestamp="1581872969041">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="246" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581872969041" />
+    <state width="1230" height="204" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1581678752873" />
+    <state width="1253" height="246" key="GridCell.Tab.0.left" timestamp="1581872969040">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="246" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581872969040" />
+    <state width="1230" height="204" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1581678752873" />
+    <state width="1253" height="246" key="GridCell.Tab.0.right" timestamp="1581872969041">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="246" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581872969041" />
+    <state width="1230" height="204" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1581678752874" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1581866331303">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581866331303" />
+    <state x="382" y="176" width="672" height="677" key="run.anything.popup" timestamp="1581678103503">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="380" y="176" width="672" height="677" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1581627731381" />
+    <state x="382" y="176" width="672" height="677" key="run.anything.popup/70.27.1296.741@70.27.1296.741" timestamp="1581678103503" />
+  </component>
+</project>
