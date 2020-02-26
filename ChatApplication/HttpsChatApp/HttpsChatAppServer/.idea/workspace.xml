@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed54cdbd-8cb3-484c-a3b5-9fbfe4a5a405" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YISqh9yaoZZZMF6nCUNuTXNTjT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/example/chatapp/server" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/example/chatapp/server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.chatapp.server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="JavaHttpsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chatapp.client.JavaHttpsExample" />
+      <module name="HttpsChatApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chatapp.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chatapp.connection.Server" />
+      <module name="HttpsChatApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chatapp.connection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleHTTPSServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.chatapp.server.SimpleHTTPSServer" />
+      <module name="HttpsChatApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chatapp.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.JavaHttpsExample" />
+        <item itemvalue="Application.SimpleHTTPSServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed54cdbd-8cb3-484c-a3b5-9fbfe4a5a405" name="Default Changelist" comment="" />
+      <created>1582628807116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582628807116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1276" height="125" key="GridCell.Tab.0.bottom" timestamp="1582678798179">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="125" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582678798179" />
+    <state width="1250" height="117" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1582630771394" />
+    <state width="1276" height="125" key="GridCell.Tab.0.center" timestamp="1582678798179">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="125" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582678798179" />
+    <state width="1250" height="117" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1582630771394" />
+    <state width="1276" height="125" key="GridCell.Tab.0.left" timestamp="1582678798178">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="125" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582678798178" />
+    <state width="1250" height="117" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1582630771393" />
+    <state width="1276" height="125" key="GridCell.Tab.0.right" timestamp="1582678798179">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="125" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582678798179" />
+    <state width="1250" height="117" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1582630771394" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HttpsChatApp$SimpleHTTPSServer.ic" NAME="SimpleHTTPSServer Coverage Results" MODIFIED="1582629080870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.chatapp.server.*</FILTER>
+    </SUITE>
+  </component>
+</project>
